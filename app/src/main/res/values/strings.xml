@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Calculadora</string>
     <string name="title_activity">Seja Bem-vindo ao nosso App</string>
-    <string name="btn_activity">Entrar</string>
+    <string name="btn_activity">Calculadora</string>
     <string name="subtrair_n_meros">Subtrair números</string>
     <string name="multiplicar_n_meros">Multiplicar números</string>
     <string name="dividir_n_meros">Dividir números</string>
     <string name="somar_n_meros">Somar números</string>
     <string name="calculadora">Calculadora</string>
-    <string name="btn_caculoViagem">Viagem</string>
+    <string name="btn_caculoViagem">Calculo Viagem</string>
     <string name="dist_ncia_km">Distância (km)</string>
     <string name="pre_o_do_combust_vel_r">Preço do combustível (R$)</string>
     <string name="m_dia_km_l">Média (km/l)</string>

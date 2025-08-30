@@ -37,10 +37,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         Button btnCalculoViagem = findViewById(R.id.btnCalculoViagem);
-        btnEntrar.setOnClickListener(new View.OnClickListener() {
+        btnCalculoViagem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Abrir a tela home
+                // Abrir a tela Calculo Viagem
                 Intent telaViagem = new Intent(MainActivity.this, CalculoViagemActivity.class);
                 startActivity(telaViagem);
                 finish();
